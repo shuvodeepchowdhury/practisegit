@@ -5,3 +5,4 @@ def subs(a,b):
 def div (a,b):
     return a/b
 # checking ofr gitignore
+#again closed and checking for changes happened or not
