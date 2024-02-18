@@ -3,3 +3,5 @@ def addition(a,b):
 
 def subs(a,b):
     return a-b
+def div (a,b):
+    return a/b
